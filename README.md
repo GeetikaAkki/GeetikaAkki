@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt3d2RzeWZsd3QxOTRidHUyc3pyYjQxbHE5MmJkd3h0NHRnd3c1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CKzWI60C6miOYYqzFZ/giphy.gif" width="80%" />
+ <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1200">
 </p>
 
 # Hi there 👋 I'm Geetika Akki!
